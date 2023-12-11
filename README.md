@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=49CB31&size=35&center=true&vCenter=true&width=1000&lines=Hello!👋🏼;I´m+Agustin.;I´m+from+Argentina;👋🏼Welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=49CB31&size=35&center=true&vCenter=true&width=1000&lines=Hello!👋🏼;I´m+Agustin.;I´m+from+Argentina.;👋🏼Welcome!)
 
  <!--------------------------------------------------------------------------------------------------------------------------------------->
 <!---
@@ -38,7 +38,7 @@
 <p/>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------->
-
+<!---
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{agussdangelo}/count.svg" /></p> 
