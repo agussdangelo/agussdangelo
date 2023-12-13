@@ -4,6 +4,18 @@
 <!---
 >
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=49CB31&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--------------------------------------------------------------------------------------------------------------------------------------->
+
+   ### 🤝🏻 &nbsp;Connect with Me
+  
+ <div align="start">
+<div align="start">
+<a href="https://facebook.com/agustin.dangelo.2002" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/agussdangelo02/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-elian-dangelo/) 
+[![Email Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dangelo.agustin1@gmail.com)](mailto:dangelo.agustin1@gmail.com)
+
 
   <!--------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -14,15 +26,6 @@
 </div> 
 
  <!--------------------------------------------------------------------------------------------------------------------------------------->
-  ### 🤝🏻 &nbsp;Connect with Me
-  
- <div align="start">
-<div align="start">
-<a href="https://facebook.com/agustin.dangelo.2002" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/agussdangelo02/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
-
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-elian-dangelo/) 
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dangelo.agustin1@gmail.com)](mailto:dangelo.agustin1@gmail.com)
 
 <!--------------------------------------------------------------------------------------------------------------------------------------->
 ### 🛠 &nbsp;Tech Stack
