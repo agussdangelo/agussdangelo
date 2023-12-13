@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=49CB31&size=35&center=true&vCenter=true&width=1000&lines=Hello!👋🏼;I´m+Agustin.;I´m+from+Argentina.;👋🏼Welcome!)
+<h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> Hi , I'm Agustin <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 
  <!--------------------------------------------------------------------------------------------------------------------------------------->
 <!---
@@ -14,18 +14,19 @@
 </div> 
 
  <!--------------------------------------------------------------------------------------------------------------------------------------->
-
- <div align="center">
-<div align="center">
+  ### 🤝🏻 &nbsp;Connect with Me
+  
+ <div align="start">
+<div align="start">
 <a href="https://facebook.com/agustin.dangelo.2002" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/agussdangelo02/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-elian-dangelo/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-elian-dangelo/) 
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dangelo.agustin1@gmail.com)](mailto:dangelo.agustin1@gmail.com)
 
 <!--------------------------------------------------------------------------------------------------------------------------------------->
-
-<p align="center">
+### 🛠 &nbsp;Tech Stack
+<p align="start">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">
@@ -34,7 +35,8 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">     
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="Netlify">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">    
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="VScode">     
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="VScode"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" width="48" title="Eclipse"> 
 <p/>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------->
