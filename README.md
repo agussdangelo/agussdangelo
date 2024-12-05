@@ -42,7 +42,7 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">    
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="VScode"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" width="48" title="Eclipse IDE">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="48" title="IntelliJ IDE">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="48" title="IntelliJ IDEA">
 
 <p/>
 
