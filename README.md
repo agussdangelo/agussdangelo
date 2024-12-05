@@ -21,7 +21,7 @@
   <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=agussdangelo&show_icons=true&count_private=true&hide_border=true&title_color=787ff6&icon_color=787ff6&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
   
-  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agussdangelo&layout=compact&hide_border=true&title_color=787ff6&text_color=02D9F7FF&bg_color=0d1117" />
+  <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agussdangelo&layout=compact&hide_border=true&title_color=787ff6&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
 
  <!--------------------------------------------------------------------------------------------------------------------------------------->
