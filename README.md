@@ -35,6 +35,7 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="48" title="Java">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" width="48" title="Spring">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" width="48" title="Hibernate">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" width="48" title="Maven">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="48" title="MySQL">       
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48" title="Bootstrap">
