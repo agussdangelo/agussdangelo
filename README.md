@@ -36,13 +36,16 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" width="48" title="Spring">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" width="48" title="Hibernate">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" width="48" title="Maven">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="48" title="MySQL">       
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="48" title="PHP">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="48" title="MySQL"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48" title="PostgreSQL">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="Netlify">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">    
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="VScode"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" width="48" title="Eclipse IDE">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="48" title="IntelliJ IDEA">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PhpStorm-Dark.svg" width="48" title="PhpStorm">
 
 <p/>
 
