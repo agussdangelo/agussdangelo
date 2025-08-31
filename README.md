@@ -18,11 +18,11 @@
 </div>
   <!--------------------------------------------------------------------------------------------------------------------------------------->
 
-  <div align="center" display="flex">  
-   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=agussdangelo&show_icons=true&count_private=true&hide_border=true&title_color=787ff6&icon_color=787ff6&text_color=c9d1d9&bg_color=0d1117" alt="Agussdangelo dev github stats" /> 
-   
-   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agussdangelo&layout=compact&hide_border=true&title_color=787ff6&text_color=02D9F7FF&bg_color=0d1117" />
-  </div> 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=agussdangelo&show_icons=true&count_private=true&hide_border=true&title_color=787ff6&icon_color=787ff6&text_color=c9d1d9&bg_color=0d1117" alt="Agussdangelo dev github stats" height="200px"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agussdangelo&layout=compact&hide_border=true&title_color=787ff6&text_color=02D9F7FF&bg_color=0d1117" height="200px"/>
+</div>
 
  <!--------------------------------------------------------------------------------------------------------------------------------------->
 
