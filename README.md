@@ -29,9 +29,12 @@
 <!--------------------------------------------------------------------------------------------------------------------------------------->
 ### 🛠 &nbsp;Tech Stack
 <p align="start">
+ 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="48" title="C#">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="48" title=".NET">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="48" title="Java">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" width="48" title="Spring">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" width="48" title="Hibernate">
@@ -46,6 +49,7 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" width="48" title="Eclipse IDE">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="48" title="IntelliJ IDEA">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PhpStorm-Dark.svg" width="48" title="PhpStorm">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="48" title="Visual Studio">
 
 <p/>
 
