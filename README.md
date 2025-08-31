@@ -1,12 +1,8 @@
 <h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> Hi , I'm Agustín <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 
- <!--------------------------------------------------------------------------------------------------------------------------------------->
-<!---
->
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=49CB31&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--------------------------------------------------------------------------------------------------------------------------------------->
 
-   ### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me
   
 <div align="center" display="flex">
   <a href="https://facebook.com/agustin.dangelo.2002" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a> 
@@ -16,17 +12,16 @@
  <br>
  <br>
 </div>
-  <!--------------------------------------------------------------------------------------------------------------------------------------->
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=agussdangelo&show_icons=true&count_private=true&hide_border=true&title_color=787ff6&icon_color=787ff6&text_color=c9d1d9&bg_color=0d1117" alt="Agussdangelo dev github stats" height="200px"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agussdangelo&layout=compact&hide_border=true&title_color=787ff6&text_color=02D9F7FF&bg_color=0d1117" height="200px"/>
-</div>
 
  <!--------------------------------------------------------------------------------------------------------------------------------------->
+  
+<div align="center" display="flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=agussdangelo&show_icons=true&count_private=true&hide_border=true&title_color=787ff6&icon_color=787ff6&text_color=c9d1d9&bg_color=0d1117" alt="Agussdangelo dev github stats" height="200px" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agussdangelo&layout=compact&hide_border=true&title_color=787ff6&text_color=02D9F7FF&bg_color=0d1117" height="200px" width="50%"/>
+</div>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------->
+
 ### 🛠 &nbsp;Tech Stack
 <p align="start">
  
