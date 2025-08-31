@@ -10,7 +10,7 @@
   
 <div align="center" display="flex">
   <a href="https://facebook.com/agustin.dangelo.2002" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a> 
-  <a href="https://www.instagram.com/agussdangelo02/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/agussdangelo__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/agustin-elian-dangelo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:dangelo.agustin1@gmail.com"><img src="https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dangelo.agustin1@gmail.com"></a>
  <br>
